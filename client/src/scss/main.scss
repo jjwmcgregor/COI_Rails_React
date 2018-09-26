@@ -1,0 +1,12 @@
+// main.scss
+@import 'base/colors';
+@import 'base/typography';
+@import 'components/form';
+@import 'components/modal';
+@import 'layout/global';
+@import 'layout/navbar';
+@import 'layout/footer';
+@import 'pages/auth/login';
+@import 'pages/auth/register';
+@import 'utils/buttons';
+@import 'utils/tables';
